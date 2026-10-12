@@ -1,0 +1,4298 @@
+('C:\\The one and only one '
+ 'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\PYZ-00.pyz',
+ [('PyInstaller',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller._shared_with_waf',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\_shared_with_waf.py',
+   'PYMODULE'),
+  ('PyInstaller.building',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\building\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.building.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\building\\utils.py',
+   'PYMODULE'),
+  ('PyInstaller.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\compat.py',
+   'PYMODULE'),
+  ('PyInstaller.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\config.py',
+   'PYMODULE'),
+  ('PyInstaller.depend',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\depend\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.depend.imphookapi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\depend\\imphookapi.py',
+   'PYMODULE'),
+  ('PyInstaller.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\exceptions.py',
+   'PYMODULE'),
+  ('PyInstaller.isolated',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\isolated\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.isolated._parent',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\isolated\\_parent.py',
+   'PYMODULE'),
+  ('PyInstaller.lib',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\lib\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\lib\\modulegraph\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.modulegraph',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\lib\\modulegraph\\modulegraph.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\lib\\modulegraph\\util.py',
+   'PYMODULE'),
+  ('PyInstaller.log',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\log.py',
+   'PYMODULE'),
+  ('PyInstaller.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\hooks\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks.conda',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\hooks\\conda.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.misc',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\misc.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.osx',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\osx.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\win32\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.versioninfo',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\utils\\win32\\versioninfo.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('altgraph',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\altgraph\\__init__.py',
+   'PYMODULE'),
+  ('altgraph.Graph',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\altgraph\\Graph.py',
+   'PYMODULE'),
+  ('altgraph.GraphUtil',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\altgraph\\GraphUtil.py',
+   'PYMODULE'),
+  ('altgraph.ObjectGraph',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\altgraph\\ObjectGraph.py',
+   'PYMODULE'),
+  ('annotated_doc',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\annotated_doc\\__init__.py',
+   'PYMODULE'),
+  ('annotated_doc.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\annotated_doc\\main.py',
+   'PYMODULE'),
+  ('annotated_types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\annotated_types\\__init__.py',
+   'PYMODULE'),
+  ('anyio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('anyio._backends._asyncio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py',
+   'PYMODULE'),
+  ('anyio._backends._trio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py',
+   'PYMODULE'),
+  ('anyio._core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\__init__.py',
+   'PYMODULE'),
+  ('anyio._core._asyncio_selector_thread',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py',
+   'PYMODULE'),
+  ('anyio._core._concurrency_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_concurrency_utils.py',
+   'PYMODULE'),
+  ('anyio._core._contextmanagers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_contextmanagers.py',
+   'PYMODULE'),
+  ('anyio._core._eventloop',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio._core._exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('anyio._core._fileio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py',
+   'PYMODULE'),
+  ('anyio._core._futures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_futures.py',
+   'PYMODULE'),
+  ('anyio._core._resources',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_resources.py',
+   'PYMODULE'),
+  ('anyio._core._signals',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_signals.py',
+   'PYMODULE'),
+  ('anyio._core._sockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py',
+   'PYMODULE'),
+  ('anyio._core._streams',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_streams.py',
+   'PYMODULE'),
+  ('anyio._core._subprocesses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio._core._synchronization',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py',
+   'PYMODULE'),
+  ('anyio._core._tasks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py',
+   'PYMODULE'),
+  ('anyio._core._tempfile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py',
+   'PYMODULE'),
+  ('anyio._core._testing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_testing.py',
+   'PYMODULE'),
+  ('anyio._core._typedattr',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py',
+   'PYMODULE'),
+  ('anyio._lazyimport',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\_lazyimport.py',
+   'PYMODULE'),
+  ('anyio.abc',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\__init__.py',
+   'PYMODULE'),
+  ('anyio.abc._eventloop',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py',
+   'PYMODULE'),
+  ('anyio.abc._resources',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_resources.py',
+   'PYMODULE'),
+  ('anyio.abc._sockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py',
+   'PYMODULE'),
+  ('anyio.abc._streams',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_streams.py',
+   'PYMODULE'),
+  ('anyio.abc._subprocesses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py',
+   'PYMODULE'),
+  ('anyio.abc._tasks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py',
+   'PYMODULE'),
+  ('anyio.abc._testing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\abc\\_testing.py',
+   'PYMODULE'),
+  ('anyio.from_thread',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\from_thread.py',
+   'PYMODULE'),
+  ('anyio.functools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\functools.py',
+   'PYMODULE'),
+  ('anyio.itertools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\itertools.py',
+   'PYMODULE'),
+  ('anyio.lowlevel',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\lowlevel.py',
+   'PYMODULE'),
+  ('anyio.streams',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\streams\\__init__.py',
+   'PYMODULE'),
+  ('anyio.streams.buffered',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\streams\\buffered.py',
+   'PYMODULE'),
+  ('anyio.streams.memory',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\streams\\memory.py',
+   'PYMODULE'),
+  ('anyio.streams.stapled',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\streams\\stapled.py',
+   'PYMODULE'),
+  ('anyio.streams.tls',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\streams\\tls.py',
+   'PYMODULE'),
+  ('anyio.to_interpreter',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\to_interpreter.py',
+   'PYMODULE'),
+  ('anyio.to_process',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\to_process.py',
+   'PYMODULE'),
+  ('anyio.to_thread',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\anyio\\to_thread.py',
+   'PYMODULE'),
+  ('app',
+   'C:\\The one and only one J.A.R.V.I.S\\jarvis_pc_assistant_v2\\app.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bottle',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\bottle.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('click',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\__init__.py',
+   'PYMODULE'),
+  ('click._compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\_compat.py',
+   'PYMODULE'),
+  ('click._termui_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\_termui_impl.py',
+   'PYMODULE'),
+  ('click._textwrap',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\_textwrap.py',
+   'PYMODULE'),
+  ('click._utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\_utils.py',
+   'PYMODULE'),
+  ('click._winconsole',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\_winconsole.py',
+   'PYMODULE'),
+  ('click.core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\core.py',
+   'PYMODULE'),
+  ('click.decorators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\decorators.py',
+   'PYMODULE'),
+  ('click.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\exceptions.py',
+   'PYMODULE'),
+  ('click.formatting',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\formatting.py',
+   'PYMODULE'),
+  ('click.globals',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\globals.py',
+   'PYMODULE'),
+  ('click.parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\parser.py',
+   'PYMODULE'),
+  ('click.shell_completion',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\shell_completion.py',
+   'PYMODULE'),
+  ('click.termui',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\termui.py',
+   'PYMODULE'),
+  ('click.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\types.py',
+   'PYMODULE'),
+  ('click.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\click\\utils.py',
+   'PYMODULE'),
+  ('clr',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr.py',
+   'PYMODULE'),
+  ('clr_loader',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\ffi\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.hostfxr',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\ffi\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.mono',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\ffi\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.ffi.netfx',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\ffi\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.hostfxr',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\hostfxr.py',
+   'PYMODULE'),
+  ('clr_loader.mono',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\mono.py',
+   'PYMODULE'),
+  ('clr_loader.netfx',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\netfx.py',
+   'PYMODULE'),
+  ('clr_loader.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\types.py',
+   'PYMODULE'),
+  ('clr_loader.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\__init__.py',
+   'PYMODULE'),
+  ('clr_loader.util.clr_error',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\clr_error.py',
+   'PYMODULE'),
+  ('clr_loader.util.coreclr_errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\coreclr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.find',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\find.py',
+   'PYMODULE'),
+  ('clr_loader.util.hostfxr_errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\hostfxr_errors.py',
+   'PYMODULE'),
+  ('clr_loader.util.runtime_spec',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\clr_loader\\util\\runtime_spec.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('dotenv',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\dotenv\\__init__.py',
+   'PYMODULE'),
+  ('dotenv.ipython',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\dotenv\\ipython.py',
+   'PYMODULE'),
+  ('dotenv.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\dotenv\\main.py',
+   'PYMODULE'),
+  ('dotenv.parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\dotenv\\parser.py',
+   'PYMODULE'),
+  ('dotenv.variables',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\dotenv\\variables.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fastapi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.__main__',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\__main__.py',
+   'PYMODULE'),
+  ('fastapi._compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\_compat\\__init__.py',
+   'PYMODULE'),
+  ('fastapi._compat.shared',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\_compat\\shared.py',
+   'PYMODULE'),
+  ('fastapi._compat.v2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\_compat\\v2.py',
+   'PYMODULE'),
+  ('fastapi.applications',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\applications.py',
+   'PYMODULE'),
+  ('fastapi.background',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\background.py',
+   'PYMODULE'),
+  ('fastapi.cli',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\cli.py',
+   'PYMODULE'),
+  ('fastapi.concurrency',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\concurrency.py',
+   'PYMODULE'),
+  ('fastapi.datastructures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\datastructures.py',
+   'PYMODULE'),
+  ('fastapi.dependencies',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.dependencies.models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\models.py',
+   'PYMODULE'),
+  ('fastapi.dependencies.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\dependencies\\utils.py',
+   'PYMODULE'),
+  ('fastapi.encoders',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\encoders.py',
+   'PYMODULE'),
+  ('fastapi.exception_handlers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\exception_handlers.py',
+   'PYMODULE'),
+  ('fastapi.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\exceptions.py',
+   'PYMODULE'),
+  ('fastapi.logger',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\logger.py',
+   'PYMODULE'),
+  ('fastapi.middleware',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.middleware.asyncexitstack',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\asyncexitstack.py',
+   'PYMODULE'),
+  ('fastapi.middleware.cors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\cors.py',
+   'PYMODULE'),
+  ('fastapi.middleware.gzip',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\gzip.py',
+   'PYMODULE'),
+  ('fastapi.middleware.httpsredirect',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\httpsredirect.py',
+   'PYMODULE'),
+  ('fastapi.middleware.trustedhost',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\trustedhost.py',
+   'PYMODULE'),
+  ('fastapi.middleware.wsgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\middleware\\wsgi.py',
+   'PYMODULE'),
+  ('fastapi.openapi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\openapi\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.openapi.constants',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\openapi\\constants.py',
+   'PYMODULE'),
+  ('fastapi.openapi.docs',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\openapi\\docs.py',
+   'PYMODULE'),
+  ('fastapi.openapi.models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\openapi\\models.py',
+   'PYMODULE'),
+  ('fastapi.openapi.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\openapi\\utils.py',
+   'PYMODULE'),
+  ('fastapi.param_functions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\param_functions.py',
+   'PYMODULE'),
+  ('fastapi.params',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\params.py',
+   'PYMODULE'),
+  ('fastapi.requests',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\requests.py',
+   'PYMODULE'),
+  ('fastapi.responses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\responses.py',
+   'PYMODULE'),
+  ('fastapi.routing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\routing.py',
+   'PYMODULE'),
+  ('fastapi.security',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.security.api_key',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\api_key.py',
+   'PYMODULE'),
+  ('fastapi.security.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\base.py',
+   'PYMODULE'),
+  ('fastapi.security.http',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\http.py',
+   'PYMODULE'),
+  ('fastapi.security.oauth2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\oauth2.py',
+   'PYMODULE'),
+  ('fastapi.security.open_id_connect_url',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\open_id_connect_url.py',
+   'PYMODULE'),
+  ('fastapi.security.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\security\\utils.py',
+   'PYMODULE'),
+  ('fastapi.sse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\sse.py',
+   'PYMODULE'),
+  ('fastapi.staticfiles',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\staticfiles.py',
+   'PYMODULE'),
+  ('fastapi.telemetry',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\telemetry\\__init__.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\telemetry\\_api.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._asgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\telemetry\\_asgi.py',
+   'PYMODULE'),
+  ('fastapi.telemetry._runtime',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\telemetry\\_runtime.py',
+   'PYMODULE'),
+  ('fastapi.templating',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\templating.py',
+   'PYMODULE'),
+  ('fastapi.testclient',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\testclient.py',
+   'PYMODULE'),
+  ('fastapi.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\types.py',
+   'PYMODULE'),
+  ('fastapi.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\utils.py',
+   'PYMODULE'),
+  ('fastapi.websockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\fastapi\\websockets.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h11',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._events',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._state',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('httpcore2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\__init__.py',
+   'PYMODULE'),
+  ('httpcore2._api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_api.py',
+   'PYMODULE'),
+  ('httpcore2._async',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore2._async.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore2._async.connection_pool',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore2._async.http11',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore2._async.http2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore2._async.http_proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore2._async.interfaces',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore2._async.socks_proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_async\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore2._backends',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore2._backends.anyio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\anyio.py',
+   'PYMODULE'),
+  ('httpcore2._backends.auto',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore2._backends.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore2._backends.mock',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\mock.py',
+   'PYMODULE'),
+  ('httpcore2._backends.sync',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore2._backends.trio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore2._exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore2._models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_models.py',
+   'PYMODULE'),
+  ('httpcore2._ssl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_ssl.py',
+   'PYMODULE'),
+  ('httpcore2._sync',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore2._sync.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore2._sync.connection_pool',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore2._sync.http11',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\http11.py',
+   'PYMODULE'),
+  ('httpcore2._sync.http2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\http2.py',
+   'PYMODULE'),
+  ('httpcore2._sync.http_proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore2._sync.interfaces',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\interfaces.py',
+   'PYMODULE'),
+  ('httpcore2._sync.socks_proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_sync\\socks_proxy.py',
+   'PYMODULE'),
+  ('httpcore2._synchronization',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_synchronization.py',
+   'PYMODULE'),
+  ('httpcore2._trace',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_trace.py',
+   'PYMODULE'),
+  ('httpcore2._utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpcore2\\_utils.py',
+   'PYMODULE'),
+  ('httptools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httptools\\__init__.py',
+   'PYMODULE'),
+  ('httptools._version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httptools\\_version.py',
+   'PYMODULE'),
+  ('httptools.parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httptools\\parser\\__init__.py',
+   'PYMODULE'),
+  ('httptools.parser.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httptools\\parser\\errors.py',
+   'PYMODULE'),
+  ('httptools.parser.protocol',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httptools\\parser\\protocol.py',
+   'PYMODULE'),
+  ('httpx2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\__init__.py',
+   'PYMODULE'),
+  ('httpx2.__version__',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\__version__.py',
+   'PYMODULE'),
+  ('httpx2._alias',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_alias.py',
+   'PYMODULE'),
+  ('httpx2._api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_api.py',
+   'PYMODULE'),
+  ('httpx2._auth',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_auth.py',
+   'PYMODULE'),
+  ('httpx2._client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_client.py',
+   'PYMODULE'),
+  ('httpx2._config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_config.py',
+   'PYMODULE'),
+  ('httpx2._content',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_content.py',
+   'PYMODULE'),
+  ('httpx2._decoders',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_decoders.py',
+   'PYMODULE'),
+  ('httpx2._exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx2._main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_main.py',
+   'PYMODULE'),
+  ('httpx2._models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_models.py',
+   'PYMODULE'),
+  ('httpx2._multipart',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_multipart.py',
+   'PYMODULE'),
+  ('httpx2._sse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_sse.py',
+   'PYMODULE'),
+  ('httpx2._status_codes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx2._transports',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx2._transports.asgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('httpx2._transports.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\base.py',
+   'PYMODULE'),
+  ('httpx2._transports.default',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\default.py',
+   'PYMODULE'),
+  ('httpx2._transports.mock',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\mock.py',
+   'PYMODULE'),
+  ('httpx2._transports.wsgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx2._types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_types.py',
+   'PYMODULE'),
+  ('httpx2._urlparse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_urlparse.py',
+   'PYMODULE'),
+  ('httpx2._urls',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_urls.py',
+   'PYMODULE'),
+  ('httpx2._utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\_utils.py',
+   'PYMODULE'),
+  ('httpx2.websockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\websockets\\__init__.py',
+   'PYMODULE'),
+  ('httpx2.websockets._api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\websockets\\_api.py',
+   'PYMODULE'),
+  ('httpx2.websockets._exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\websockets\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx2.websockets._ping',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\websockets\\_ping.py',
+   'PYMODULE'),
+  ('httpx2.websockets._transport',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\httpx2\\websockets\\_transport.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('logging.config',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\config.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('opentelemetry', '-', 'PYMODULE'),
+  ('opentelemetry._logs',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\_logs\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry._logs._internal',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\_logs\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry._logs.severity',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\_logs\\severity\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.attributes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\attributes\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.baggage',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\baggage\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.baggage.propagation',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\baggage\\propagation\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.context',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\context\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.context.context',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\context\\context.py',
+   'PYMODULE'),
+  ('opentelemetry.context.contextvars_context',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\context\\contextvars_context.py',
+   'PYMODULE'),
+  ('opentelemetry.environment_variables',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\environment_variables\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\metrics\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal.instrument',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\instrument.py',
+   'PYMODULE'),
+  ('opentelemetry.metrics._internal.observation',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\metrics\\_internal\\observation.py',
+   'PYMODULE'),
+  ('opentelemetry.propagate',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\propagate\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.propagators', '-', 'PYMODULE'),
+  ('opentelemetry.propagators.composite',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\propagators\\composite.py',
+   'PYMODULE'),
+  ('opentelemetry.propagators.textmap',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\propagators\\textmap.py',
+   'PYMODULE'),
+  ('opentelemetry.trace',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\trace\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.propagation',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\trace\\propagation\\__init__.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.propagation.tracecontext',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\trace\\propagation\\tracecontext.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.span',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\trace\\span.py',
+   'PYMODULE'),
+  ('opentelemetry.trace.status',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\trace\\status.py',
+   'PYMODULE'),
+  ('opentelemetry.util', '-', 'PYMODULE'),
+  ('opentelemetry.util._decorator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\_decorator.py',
+   'PYMODULE'),
+  ('opentelemetry.util._importlib_metadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\_importlib_metadata.py',
+   'PYMODULE'),
+  ('opentelemetry.util._once',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\_once.py',
+   'PYMODULE'),
+  ('opentelemetry.util._providers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\_providers.py',
+   'PYMODULE'),
+  ('opentelemetry.util.re',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\re.py',
+   'PYMODULE'),
+  ('opentelemetry.util.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\opentelemetry\\util\\types.py',
+   'PYMODULE'),
+  ('ordlookup',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\ordlookup\\__init__.py',
+   'PYMODULE'),
+  ('ordlookup.oleaut32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\ordlookup\\oleaut32.py',
+   'PYMODULE'),
+  ('ordlookup.ws2_32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\ordlookup\\ws2_32.py',
+   'PYMODULE'),
+  ('ordlookup.wsock32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\ordlookup\\wsock32.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pefile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pefile.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('proxy_tools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\proxy_tools\\__init__.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pydantic',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_config.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_metadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_core_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._dataclasses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_dataclasses.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators_v1',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_decorators_v1.py',
+   'PYMODULE'),
+  ('pydantic._internal._discriminated_union',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_discriminated_union.py',
+   'PYMODULE'),
+  ('pydantic._internal._docs_extraction',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_docs_extraction.py',
+   'PYMODULE'),
+  ('pydantic._internal._fields',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_fields.py',
+   'PYMODULE'),
+  ('pydantic._internal._forward_ref',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_forward_ref.py',
+   'PYMODULE'),
+  ('pydantic._internal._generate_schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generate_schema.py',
+   'PYMODULE'),
+  ('pydantic._internal._generics',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_generics.py',
+   'PYMODULE'),
+  ('pydantic._internal._git',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_git.py',
+   'PYMODULE'),
+  ('pydantic._internal._import_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_import_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._known_annotated_metadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_known_annotated_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._mock_val_ser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_mock_val_ser.py',
+   'PYMODULE'),
+  ('pydantic._internal._model_construction',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_model_construction.py',
+   'PYMODULE'),
+  ('pydantic._internal._namespace_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_namespace_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._repr',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_repr.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_gather',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_gather.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_generation_shared',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_schema_generation_shared.py',
+   'PYMODULE'),
+  ('pydantic._internal._serializers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_serializers.py',
+   'PYMODULE'),
+  ('pydantic._internal._signature',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_signature.py',
+   'PYMODULE'),
+  ('pydantic._internal._type_refs',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_type_refs.py',
+   'PYMODULE'),
+  ('pydantic._internal._typing_extra',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_typing_extra.py',
+   'PYMODULE'),
+  ('pydantic._internal._utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._validate_call',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validate_call.py',
+   'PYMODULE'),
+  ('pydantic._internal._validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_internal\\_validators.py',
+   'PYMODULE'),
+  ('pydantic._migration',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\_migration.py',
+   'PYMODULE'),
+  ('pydantic.alias_generators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\alias_generators.py',
+   'PYMODULE'),
+  ('pydantic.aliases',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\aliases.py',
+   'PYMODULE'),
+  ('pydantic.annotated_handlers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\annotated_handlers.py',
+   'PYMODULE'),
+  ('pydantic.class_validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.color',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\color.py',
+   'PYMODULE'),
+  ('pydantic.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\config.py',
+   'PYMODULE'),
+  ('pydantic.dataclasses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.datetime_parse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.decorator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.deprecated',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.class_validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\config.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.copy_internals',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\copy_internals.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.decorator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.json',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\json.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.parse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\parse.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.tools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\deprecated\\tools.py',
+   'PYMODULE'),
+  ('pydantic.env_settings',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.error_wrappers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\errors.py',
+   'PYMODULE'),
+  ('pydantic.experimental',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\experimental\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.experimental.arguments_schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\experimental\\arguments_schema.py',
+   'PYMODULE'),
+  ('pydantic.experimental.missing_sentinel',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\experimental\\missing_sentinel.py',
+   'PYMODULE'),
+  ('pydantic.experimental.pipeline',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\experimental\\pipeline.py',
+   'PYMODULE'),
+  ('pydantic.fields',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\fields.py',
+   'PYMODULE'),
+  ('pydantic.functional_serializers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\functional_serializers.py',
+   'PYMODULE'),
+  ('pydantic.functional_validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\functional_validators.py',
+   'PYMODULE'),
+  ('pydantic.generics',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\generics.py',
+   'PYMODULE'),
+  ('pydantic.json',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\json.py',
+   'PYMODULE'),
+  ('pydantic.json_schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\json_schema.py',
+   'PYMODULE'),
+  ('pydantic.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\main.py',
+   'PYMODULE'),
+  ('pydantic.mypy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\mypy.py',
+   'PYMODULE'),
+  ('pydantic.networks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\networks.py',
+   'PYMODULE'),
+  ('pydantic.parse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\parse.py',
+   'PYMODULE'),
+  ('pydantic.plugin',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\plugin\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.plugin._loader',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_loader.py',
+   'PYMODULE'),
+  ('pydantic.plugin._schema_validator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\plugin\\_schema_validator.py',
+   'PYMODULE'),
+  ('pydantic.root_model',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\root_model.py',
+   'PYMODULE'),
+  ('pydantic.schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\schema.py',
+   'PYMODULE'),
+  ('pydantic.tools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\tools.py',
+   'PYMODULE'),
+  ('pydantic.type_adapter',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\type_adapter.py',
+   'PYMODULE'),
+  ('pydantic.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\types.py',
+   'PYMODULE'),
+  ('pydantic.typing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\typing.py',
+   'PYMODULE'),
+  ('pydantic.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\utils.py',
+   'PYMODULE'),
+  ('pydantic.v1',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\__init__.py',
+   'PYMODULE'),
+  ('pydantic.v1._hypothesis_plugin',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\_hypothesis_plugin.py',
+   'PYMODULE'),
+  ('pydantic.v1.annotated_types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\annotated_types.py',
+   'PYMODULE'),
+  ('pydantic.v1.class_validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\class_validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.color',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\color.py',
+   'PYMODULE'),
+  ('pydantic.v1.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\config.py',
+   'PYMODULE'),
+  ('pydantic.v1.dataclasses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.v1.datetime_parse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\datetime_parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.decorator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\decorator.py',
+   'PYMODULE'),
+  ('pydantic.v1.env_settings',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\env_settings.py',
+   'PYMODULE'),
+  ('pydantic.v1.error_wrappers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\error_wrappers.py',
+   'PYMODULE'),
+  ('pydantic.v1.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\errors.py',
+   'PYMODULE'),
+  ('pydantic.v1.fields',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\fields.py',
+   'PYMODULE'),
+  ('pydantic.v1.generics',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\generics.py',
+   'PYMODULE'),
+  ('pydantic.v1.json',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\json.py',
+   'PYMODULE'),
+  ('pydantic.v1.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\main.py',
+   'PYMODULE'),
+  ('pydantic.v1.mypy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\mypy.py',
+   'PYMODULE'),
+  ('pydantic.v1.networks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\networks.py',
+   'PYMODULE'),
+  ('pydantic.v1.parse',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\parse.py',
+   'PYMODULE'),
+  ('pydantic.v1.schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\schema.py',
+   'PYMODULE'),
+  ('pydantic.v1.tools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\tools.py',
+   'PYMODULE'),
+  ('pydantic.v1.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\types.py',
+   'PYMODULE'),
+  ('pydantic.v1.typing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\typing.py',
+   'PYMODULE'),
+  ('pydantic.v1.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\utils.py',
+   'PYMODULE'),
+  ('pydantic.v1.validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\validators.py',
+   'PYMODULE'),
+  ('pydantic.v1.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\v1\\version.py',
+   'PYMODULE'),
+  ('pydantic.validate_call_decorator',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\validate_call_decorator.py',
+   'PYMODULE'),
+  ('pydantic.validators',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\validators.py',
+   'PYMODULE'),
+  ('pydantic.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\version.py',
+   'PYMODULE'),
+  ('pydantic.warnings',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic\\warnings.py',
+   'PYMODULE'),
+  ('pydantic_core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic_core\\__init__.py',
+   'PYMODULE'),
+  ('pydantic_core.core_schema',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pydantic_core\\core_schema.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pythonnet',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\pythonnet\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests._types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\_types.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._typing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_typing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py311',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata.compat.py39',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp._functools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.overlay',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\overlay.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py310',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.compat.py313',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\compat\\py313.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp.glob',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp\\glob.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\smtplib.py',
+   'PYMODULE'),
+  ('sniffio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.__main__',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\__main__.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('starlette',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\__init__.py',
+   'PYMODULE'),
+  ('starlette._exception_handler',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\_exception_handler.py',
+   'PYMODULE'),
+  ('starlette._utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\_utils.py',
+   'PYMODULE'),
+  ('starlette.applications',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\applications.py',
+   'PYMODULE'),
+  ('starlette.authentication',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\authentication.py',
+   'PYMODULE'),
+  ('starlette.background',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\background.py',
+   'PYMODULE'),
+  ('starlette.concurrency',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\concurrency.py',
+   'PYMODULE'),
+  ('starlette.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\config.py',
+   'PYMODULE'),
+  ('starlette.convertors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\convertors.py',
+   'PYMODULE'),
+  ('starlette.datastructures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\datastructures.py',
+   'PYMODULE'),
+  ('starlette.endpoints',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\endpoints.py',
+   'PYMODULE'),
+  ('starlette.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\exceptions.py',
+   'PYMODULE'),
+  ('starlette.formparsers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\formparsers.py',
+   'PYMODULE'),
+  ('starlette.middleware',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('starlette.middleware.authentication',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\authentication.py',
+   'PYMODULE'),
+  ('starlette.middleware.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\base.py',
+   'PYMODULE'),
+  ('starlette.middleware.body_limit',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\body_limit.py',
+   'PYMODULE'),
+  ('starlette.middleware.cors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\cors.py',
+   'PYMODULE'),
+  ('starlette.middleware.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\errors.py',
+   'PYMODULE'),
+  ('starlette.middleware.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\exceptions.py',
+   'PYMODULE'),
+  ('starlette.middleware.gzip',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\gzip.py',
+   'PYMODULE'),
+  ('starlette.middleware.httpsredirect',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\httpsredirect.py',
+   'PYMODULE'),
+  ('starlette.middleware.opentelemetry',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\opentelemetry.py',
+   'PYMODULE'),
+  ('starlette.middleware.sessions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\sessions.py',
+   'PYMODULE'),
+  ('starlette.middleware.trustedhost',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\trustedhost.py',
+   'PYMODULE'),
+  ('starlette.middleware.wsgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\middleware\\wsgi.py',
+   'PYMODULE'),
+  ('starlette.requests',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\requests.py',
+   'PYMODULE'),
+  ('starlette.responses',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\responses.py',
+   'PYMODULE'),
+  ('starlette.routing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\routing.py',
+   'PYMODULE'),
+  ('starlette.schemas',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\schemas.py',
+   'PYMODULE'),
+  ('starlette.staticfiles',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\staticfiles.py',
+   'PYMODULE'),
+  ('starlette.status',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\status.py',
+   'PYMODULE'),
+  ('starlette.templating',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\templating.py',
+   'PYMODULE'),
+  ('starlette.testclient',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\testclient.py',
+   'PYMODULE'),
+  ('starlette.types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\types.py',
+   'PYMODULE'),
+  ('starlette.websockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\starlette\\websockets.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('truststore',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\__init__.py',
+   'PYMODULE'),
+  ('truststore._api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\_api.py',
+   'PYMODULE'),
+  ('truststore._macos',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\_macos.py',
+   'PYMODULE'),
+  ('truststore._openssl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\_openssl.py',
+   'PYMODULE'),
+  ('truststore._ssl_constants',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\_ssl_constants.py',
+   'PYMODULE'),
+  ('truststore._windows',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\truststore\\_windows.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('typing_inspection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\typing_inspection\\__init__.py',
+   'PYMODULE'),
+  ('typing_inspection.introspection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\typing_inspection\\introspection.py',
+   'PYMODULE'),
+  ('typing_inspection.typing_objects',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\typing_inspection\\typing_objects.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('uvicorn',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.__main__',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\__main__.py',
+   'PYMODULE'),
+  ('uvicorn._ansi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\_ansi.py',
+   'PYMODULE'),
+  ('uvicorn._compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\_compat.py',
+   'PYMODULE'),
+  ('uvicorn._subprocess',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\_subprocess.py',
+   'PYMODULE'),
+  ('uvicorn._types',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\_types.py',
+   'PYMODULE'),
+  ('uvicorn.config',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\config.py',
+   'PYMODULE'),
+  ('uvicorn.importer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\importer.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan.off',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\off.py',
+   'PYMODULE'),
+  ('uvicorn.lifespan.on',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\lifespan\\on.py',
+   'PYMODULE'),
+  ('uvicorn.logging',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\logging.py',
+   'PYMODULE'),
+  ('uvicorn.loops',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\loops\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.loops.asyncio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\loops\\asyncio.py',
+   'PYMODULE'),
+  ('uvicorn.loops.auto',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\loops\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.loops.uvloop',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\loops\\uvloop.py',
+   'PYMODULE'),
+  ('uvicorn.loops.zuvloop',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\loops\\zuvloop.py',
+   'PYMODULE'),
+  ('uvicorn.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\main.py',
+   'PYMODULE'),
+  ('uvicorn.middleware',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.asgi2',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\asgi2.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.message_logger',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\message_logger.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.proxy_headers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\proxy_headers.py',
+   'PYMODULE'),
+  ('uvicorn.middleware.wsgi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\middleware\\wsgi.py',
+   'PYMODULE'),
+  ('uvicorn.protocols',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.auto',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.auto_zttp_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\auto_zttp_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.flow_control',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\flow_control.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.h11_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\h11_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.httptools_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\httptools_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.zttp_h2_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\zttp_h2_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.http.zttp_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\http\\zttp_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\utils.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.auto',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\auto.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.websockets_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.websockets_sansio_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\websockets_sansio_impl.py',
+   'PYMODULE'),
+  ('uvicorn.protocols.websockets.wsproto_impl',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\protocols\\websockets\\wsproto_impl.py',
+   'PYMODULE'),
+  ('uvicorn.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\server.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\__init__.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.basereload',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\basereload.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.multiprocess',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\multiprocess.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.statreload',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\statreload.py',
+   'PYMODULE'),
+  ('uvicorn.supervisors.watchfilesreload',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\supervisors\\watchfilesreload.py',
+   'PYMODULE'),
+  ('uvicorn.workers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\uvicorn\\workers.py',
+   'PYMODULE'),
+  ('watchfiles',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\watchfiles\\__init__.py',
+   'PYMODULE'),
+  ('watchfiles.filters',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\watchfiles\\filters.py',
+   'PYMODULE'),
+  ('watchfiles.main',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\watchfiles\\main.py',
+   'PYMODULE'),
+  ('watchfiles.run',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\watchfiles\\run.py',
+   'PYMODULE'),
+  ('watchfiles.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\watchfiles\\version.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('websockets',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\__init__.py',
+   'PYMODULE'),
+  ('websockets.__main__',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\__main__.py',
+   'PYMODULE'),
+  ('websockets.asyncio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('websockets.asyncio.client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\client.py',
+   'PYMODULE'),
+  ('websockets.asyncio.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\connection.py',
+   'PYMODULE'),
+  ('websockets.asyncio.messages',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\messages.py',
+   'PYMODULE'),
+  ('websockets.asyncio.router',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\router.py',
+   'PYMODULE'),
+  ('websockets.asyncio.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\asyncio\\server.py',
+   'PYMODULE'),
+  ('websockets.auth',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\auth.py',
+   'PYMODULE'),
+  ('websockets.cli',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\cli.py',
+   'PYMODULE'),
+  ('websockets.client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\client.py',
+   'PYMODULE'),
+  ('websockets.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\connection.py',
+   'PYMODULE'),
+  ('websockets.datastructures',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\datastructures.py',
+   'PYMODULE'),
+  ('websockets.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\exceptions.py',
+   'PYMODULE'),
+  ('websockets.extensions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('websockets.extensions.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\extensions\\base.py',
+   'PYMODULE'),
+  ('websockets.extensions.permessage_deflate',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\extensions\\permessage_deflate.py',
+   'PYMODULE'),
+  ('websockets.frames',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\frames.py',
+   'PYMODULE'),
+  ('websockets.headers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\headers.py',
+   'PYMODULE'),
+  ('websockets.http11',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\http11.py',
+   'PYMODULE'),
+  ('websockets.imports',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\imports.py',
+   'PYMODULE'),
+  ('websockets.legacy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\__init__.py',
+   'PYMODULE'),
+  ('websockets.legacy.auth',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\auth.py',
+   'PYMODULE'),
+  ('websockets.legacy.client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\client.py',
+   'PYMODULE'),
+  ('websockets.legacy.exceptions',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\exceptions.py',
+   'PYMODULE'),
+  ('websockets.legacy.framing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\framing.py',
+   'PYMODULE'),
+  ('websockets.legacy.handshake',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\handshake.py',
+   'PYMODULE'),
+  ('websockets.legacy.http',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\http.py',
+   'PYMODULE'),
+  ('websockets.legacy.protocol',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\protocol.py',
+   'PYMODULE'),
+  ('websockets.legacy.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\legacy\\server.py',
+   'PYMODULE'),
+  ('websockets.protocol',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\protocol.py',
+   'PYMODULE'),
+  ('websockets.proxy',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\proxy.py',
+   'PYMODULE'),
+  ('websockets.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\server.py',
+   'PYMODULE'),
+  ('websockets.streams',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\streams.py',
+   'PYMODULE'),
+  ('websockets.sync',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\__init__.py',
+   'PYMODULE'),
+  ('websockets.sync.client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\client.py',
+   'PYMODULE'),
+  ('websockets.sync.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\connection.py',
+   'PYMODULE'),
+  ('websockets.sync.messages',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\messages.py',
+   'PYMODULE'),
+  ('websockets.sync.router',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\router.py',
+   'PYMODULE'),
+  ('websockets.sync.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\server.py',
+   'PYMODULE'),
+  ('websockets.sync.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\sync\\utils.py',
+   'PYMODULE'),
+  ('websockets.trio',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\__init__.py',
+   'PYMODULE'),
+  ('websockets.trio.client',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\client.py',
+   'PYMODULE'),
+  ('websockets.trio.connection',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\connection.py',
+   'PYMODULE'),
+  ('websockets.trio.messages',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\messages.py',
+   'PYMODULE'),
+  ('websockets.trio.router',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\router.py',
+   'PYMODULE'),
+  ('websockets.trio.server',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\server.py',
+   'PYMODULE'),
+  ('websockets.trio.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\trio\\utils.py',
+   'PYMODULE'),
+  ('websockets.typing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\typing.py',
+   'PYMODULE'),
+  ('websockets.uri',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\uri.py',
+   'PYMODULE'),
+  ('websockets.utils',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\utils.py',
+   'PYMODULE'),
+  ('websockets.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\websockets\\version.py',
+   'PYMODULE'),
+  ('webview',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\__init__.py',
+   'PYMODULE'),
+  ('webview.__pyinstaller',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\__pyinstaller\\__init__.py',
+   'PYMODULE'),
+  ('webview.__pyinstaller.hook-webview',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\__pyinstaller\\hook-webview.py',
+   'PYMODULE'),
+  ('webview._version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\_version.py',
+   'PYMODULE'),
+  ('webview.dom',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\__init__.py',
+   'PYMODULE'),
+  ('webview.dom.classlist',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\classlist.py',
+   'PYMODULE'),
+  ('webview.dom.dom',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\dom.py',
+   'PYMODULE'),
+  ('webview.dom.element',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\element.py',
+   'PYMODULE'),
+  ('webview.dom.event',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\event.py',
+   'PYMODULE'),
+  ('webview.dom.propsdict',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\dom\\propsdict.py',
+   'PYMODULE'),
+  ('webview.errors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\errors.py',
+   'PYMODULE'),
+  ('webview.event',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\event.py',
+   'PYMODULE'),
+  ('webview.guilib',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\guilib.py',
+   'PYMODULE'),
+  ('webview.http',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\http.py',
+   'PYMODULE'),
+  ('webview.localization',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\localization.py',
+   'PYMODULE'),
+  ('webview.menu',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\menu.py',
+   'PYMODULE'),
+  ('webview.models',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\models.py',
+   'PYMODULE'),
+  ('webview.platforms',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.app',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.base',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\base.py',
+   'PYMODULE'),
+  ('webview.platforms.android.event',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\event.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.app',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\app.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.content',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\content.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.net',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\net.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.os',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\os.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.view',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jclass.webkit',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jclass\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\__init__.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.pywebview',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\pywebview.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.view',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\view.py',
+   'PYMODULE'),
+  ('webview.platforms.android.jinterface.webkit',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\android\\jinterface\\webkit.py',
+   'PYMODULE'),
+  ('webview.platforms.cef',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\cef.py',
+   'PYMODULE'),
+  ('webview.platforms.cocoa',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\cocoa.py',
+   'PYMODULE'),
+  ('webview.platforms.edgechromium',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\edgechromium.py',
+   'PYMODULE'),
+  ('webview.platforms.gtk',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\gtk.py',
+   'PYMODULE'),
+  ('webview.platforms.mshtml',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\mshtml.py',
+   'PYMODULE'),
+  ('webview.platforms.qt',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\qt.py',
+   'PYMODULE'),
+  ('webview.platforms.win32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\win32.py',
+   'PYMODULE'),
+  ('webview.platforms.winforms',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\platforms\\winforms.py',
+   'PYMODULE'),
+  ('webview.screen',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\screen.py',
+   'PYMODULE'),
+  ('webview.state',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\state.py',
+   'PYMODULE'),
+  ('webview.util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\util.py',
+   'PYMODULE'),
+  ('webview.window',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\webview\\window.py',
+   'PYMODULE'),
+  ('win32ctypes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.core',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.core._winerrors',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\_winerrors.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._authentication',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_authentication.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._common',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_common.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._dll',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_dll.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._nl_support',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_nl_support.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._resource',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_resource.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._system_information',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_system_information.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._time',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_time.py',
+   'PYMODULE'),
+  ('win32ctypes.core.cffi._util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\cffi\\_util.py',
+   'PYMODULE'),
+  ('win32ctypes.core.compat',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\compat.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._authentication',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_authentication.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._common',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_common.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._dll',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_dll.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._nl_support',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_nl_support.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._resource',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_resource.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._system_information',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_system_information.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._time',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_time.py',
+   'PYMODULE'),
+  ('win32ctypes.core.ctypes._util',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\core\\ctypes\\_util.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\pywin32\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.pywintypes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\pywin32\\pywintypes.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.win32api',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\pywin32\\win32api.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.win32cred',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\pywin32\\win32cred.py',
+   'PYMODULE'),
+  ('win32ctypes.version',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\win32ctypes\\version.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.types',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\types.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('yaml',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\__init__.py',
+   'PYMODULE'),
+  ('yaml.composer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\composer.py',
+   'PYMODULE'),
+  ('yaml.constructor',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\constructor.py',
+   'PYMODULE'),
+  ('yaml.cyaml',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\cyaml.py',
+   'PYMODULE'),
+  ('yaml.dumper',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\dumper.py',
+   'PYMODULE'),
+  ('yaml.emitter',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\emitter.py',
+   'PYMODULE'),
+  ('yaml.error',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\error.py',
+   'PYMODULE'),
+  ('yaml.events',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\events.py',
+   'PYMODULE'),
+  ('yaml.loader',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\loader.py',
+   'PYMODULE'),
+  ('yaml.nodes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\nodes.py',
+   'PYMODULE'),
+  ('yaml.parser',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\parser.py',
+   'PYMODULE'),
+  ('yaml.reader',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\reader.py',
+   'PYMODULE'),
+  ('yaml.representer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\representer.py',
+   'PYMODULE'),
+  ('yaml.resolver',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\resolver.py',
+   'PYMODULE'),
+  ('yaml.scanner',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\scanner.py',
+   'PYMODULE'),
+  ('yaml.serializer',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\serializer.py',
+   'PYMODULE'),
+  ('yaml.tokens',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\yaml\\tokens.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zoneinfo',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('zoneinfo._common',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zoneinfo\\_common.py',
+   'PYMODULE'),
+  ('zoneinfo._tzpath',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zoneinfo\\_tzpath.py',
+   'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Users\\thear\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE')])

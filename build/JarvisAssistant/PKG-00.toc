@@ -1,0 +1,72 @@
+('C:\\The one and only one '
+ 'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\JarvisAssistant.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\build\\JarvisAssistant\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('desktop_app',
+   'C:\\The one and only one '
+   'J.A.R.V.I.S\\jarvis_pc_assistant_v2\\desktop_app.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

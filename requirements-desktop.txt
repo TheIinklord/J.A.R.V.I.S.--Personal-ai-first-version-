@@ -1,0 +1,4 @@
+# Optional dependencies for building the native Windows desktop app
+-r requirements.txt
+pywebview>=5.0,<7.0
+pyinstaller>=6.0,<7.0

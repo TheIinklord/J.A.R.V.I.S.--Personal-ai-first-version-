@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#050b12"><meta name="description" content="J.A.R.V.I.S. personal AI assistant"><link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/static/icons/icon-192.png">
+<title>J.A.R.V.I.S. // Personal Intelligence</title><link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="scanlines" aria-hidden="true"></div><div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
+<main class="shell">
+<header class="topbar">
+  <div class="brand-mark"><span></span><span></span><span></span></div>
+  <div><div class="eyebrow">PERSONAL INTELLIGENCE SYSTEM</div><h1>J.A.R.V.I.S.<span class="cursor">_</span></h1></div>
+  <div class="top-status"><span class="live-dot"></span><span id="connection-label">INITIALIZING</span><button id="install-app" class="install-btn" hidden>INSTALL APP</button></div>
+</header>
+<section class="hero">
+  <div class="orb-wrap"><div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="orb"><div class="orb-core"></div><div class="orb-glint"></div><div class="wave wave-a"></div><div class="wave wave-b"></div></div><div class="orb-ring ring-a"></div><div class="orb-ring ring-b"></div></div>
+  <div class="hero-copy"><div class="eyebrow">SYSTEM ONLINE // READY</div><h2>At your service.</h2><p>A voice-first personal AI for questions, planning, ideas, and approved PC tasks.</p><div class="hero-actions"><button id="voice" class="outline-btn">◉ START VOICE</button><span id="voice-status">VOICE STANDBY</span></div></div>
+  <div class="telemetry"><div><span>MODE</span><strong id="mode-readout">LOCAL</strong></div><div><span>LINK</span><strong id="link-readout">CHECKING</strong></div><div><span>MEMORY</span><strong id="memory-readout">0 SAVED</strong></div></div>
+</section>
+<section class="workspace">
+  <div class="section-heading"><span>01 / CONVERSATION</span><span class="line"></span><span id="message-count">01 ENTRIES</span></div>
+  <div id="chat" class="chat" aria-live="polite"><article class="message assistant"><div class="avatar">J</div><div class="bubble"><div class="speaker">J.A.R.V.I.S. • SYSTEM</div><p>Systems ready. Start voice or type a request. PC actions require confirmation; memories are saved only when you choose to save them.</p></div></article></div>
+  <div class="composer">
+    <label class="mode-picker">AI MODE <select id="mode"><option value="local">LOCAL · OLLAMA</option><option value="online">ONLINE · OPENAI API</option></select><label class="speak-toggle"><input id="speak" type="checkbox" checked> SPEAK REPLIES</label></label>
+    <div class="input-row"><textarea id="message" rows="1" placeholder="Enter a request or use Start Voice..." aria-label="Message to J.A.R.V.I.S."></textarea><button id="send" class="send"><span>TRANSMIT</span><b>↗</b></button></div>
+    <div class="composer-foot"><span><i></i> LOCAL INTERFACE · 127.0.0.1</span><span>ENTER TO SEND · SHIFT+ENTER FOR NEW LINE</span></div>
+  </div>
+</section>
+<section class="tools">
+  <div class="section-heading"><span>02 / APPROVED TOOLS</span><span class="line"></span><span>USER CONTROLLED</span></div>
+  <div class="tool-grid">
+    <article class="tool-card"><div class="tool-icon">▣</div><h3>Windows apps</h3><p>Launch only approved applications. Each launch asks for confirmation.</p><div id="apps" class="app-actions"><button class="tool-btn" data-app="notepad">Notepad</button><button class="tool-btn" data-app="calculator">Calculator</button><button class="tool-btn" data-app="paint">Paint</button></div></article>
+    <article class="tool-card"><div class="tool-icon">◈</div><h3>Long-term memory</h3><p>Save a preference or fact only when you choose to store it.</p><textarea id="memory-input" rows="2" placeholder="e.g. I prefer concise answers."></textarea><button id="save-memory" class="tool-btn primary">SAVE MEMORY</button><div id="memories" class="memory-list"></div></article>
+    <article class="tool-card"><div class="tool-icon">⌕</div><h3>Selected-folder search</h3><p id="folder-label">No folder selected. Choose one before searching.</p><button id="pick-folder" class="tool-btn">CHOOSE FOLDER</button><div class="search-row"><input id="file-query" placeholder="Search filename or contents"><button id="search-files" class="tool-btn">SEARCH</button></div><div id="file-results" class="file-results"></div></article>
+    <article class="tool-card"><div class="tool-icon">▧</div><h3>Screen analysis</h3><p>Choose a screen or window using the browser picker, then send a still image for analysis.</p><input id="screen-question" placeholder="What should I look for?"><button id="screenshot" class="tool-btn">SHARE & ANALYZE SCREEN</button><div class="tiny-note">Screenshot analysis sends the chosen image to the online AI provider.</div></article>
+  </div>
+</section>
+<footer><span>J.A.R.V.I.S. PERSONAL ASSISTANT · BUILD 0.2</span><span>HUMAN CONTROL REMAINS ACTIVE</span></footer>
+</main>
+<div id="toast" role="status" class="toast"></div>
+<script src="/static/app.js"></script>
+<script src="/static/pwa.js"></script></body></html>
